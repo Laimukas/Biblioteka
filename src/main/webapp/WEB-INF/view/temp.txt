@@ -1,0 +1,8 @@
+
+registravimas jsp faile isimta eilute kur nurodydavau registruojama data,
+tai pakeiciau kai registruojam,automatiskai imeta siandienos data.
+
+<tr>
+                        <th>Data</th>
+                        <td><input type="date" name="start" value="${value.readingStart}"></td>
+                    </tr>
